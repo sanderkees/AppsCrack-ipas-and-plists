@@ -29,7 +29,7 @@
       <key>metadata</key>
       <dict>
         <key>bundle-identifier</key>
-        <string>com.clickteam.fivenights2</string>
+        <string>com.scottgames.fivenights2</string>
         <key>bundle-version</key>
         <string>1</string>
         <key>kind</key>
