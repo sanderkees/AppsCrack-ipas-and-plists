@@ -1,2 +1,6 @@
 cercube_resigned.ipa filter=lfs diff=lfs merge=lfs -text
 subway_resigned.ipa filter=lfs diff=lfs merge=lfs -text
+fnafsl_resigned.ipa filter=lfs diff=lfs merge=lfs -text
+nuke_resigned.ipa filter=lfs diff=lfs merge=lfs -text
+pursuit_resigned.ipa filter=lfs diff=lfs merge=lfs -text
+ucn_resigned.ipa filter=lfs diff=lfs merge=lfs -text
